@@ -1,0 +1,6 @@
+to_do_list = ["Wake up early morning","Learn new course on python","Work on new project","Show it to Amarto Sir"]
+
+print("My daily to-do list")
+
+for task in to_do_list:
+    print(f"- {task}")
